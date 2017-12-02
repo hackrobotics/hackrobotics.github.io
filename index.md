@@ -2,7 +2,7 @@
 title: Iscriviti all'hackathon di Robotica più ambizioso d'Italia
 layout: post
 date: 2017-2-12
-image: http://www.maffucci.it/wp-content/uploads/2017/05/rokers-1.jpg
+image: /assets/images/rokers.jpg
 headerImage: false
 tag:
  - Maker Faire
