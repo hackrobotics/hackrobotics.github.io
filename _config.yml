@@ -1,7 +1,7 @@
 # main text of home
-name: Ludus Russo
-bio: Un maker, un robotico, un Roker!
-description: Il mio blog personale sulla programmazione e il making
+name: Hackathon Robotics
+bio: La prima Hackathon di Robotica in Italia
+description: La prima Hackathon di Robotica in Italia
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,16 +14,16 @@ picture: assets/images/profile.jpg
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-title: Ludus Russo
+title: Hackathon Robotics
 
 lang: it_IT
 
-url: https://ludusrusso.cc
+url: http://hackathonrobotica.tech
 
 permalink: /:year/:month/:day/:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-89221021-1'
+analytics-google: 'UA-110455048-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -35,15 +35,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: ludusrusso.cc
-twitter: Ludus89
+# facebook: ludusrusso.cc
+# twitter: Ludus89
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: ludovicorusso
+# linkedin: ludovicorusso
 # youtube: myyoutube
 # spotify: myspotify
-github: ludusrusso
+# github: ludusrusso
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -51,7 +51,7 @@ github: ludusrusso
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ludus.russo@gmail.com
+email: info@hotblackrobotics.com
 
 authors:
     ludusrusso:
