@@ -1,28 +1,45 @@
 ---
-title: Maker Faire 2017
+title: Iscriviti all'hackathon di Robotica più ambizioso d'Italia
 layout: post
 date: 2017-2-12
 image: http://www.maffucci.it/wp-content/uploads/2017/05/rokers-1.jpg
 headerImage: false
 tag:
  - Maker Faire
- - Rokers
  - Hackathon Robotica
- - HotBlakc Robotics
+ - HotBlack Robotics
 category: blog
-author: gabriele ermacora
+author: sgabello
 description: Hackathon Robotica
 ---
 
-## ISCRIVITI AL HACKATHON DI ROBOTICA PIU' GRANDE DI ITALIA !!! ## 
+<style>
+.rwd-video {height: 0;overflow: hidden;padding-bottom: 56.25%;padding-top: 30px;position: relative;}
+.rwd-video iframe,
+.rwd-video object,
+.rwd-video embed {height: 100%;left: 0;position: absolute;top: 0;width: 100%;}
+.bottone-reg { height: 100px; width: 100%; text-align: center; padding: 100px;
+    background-color: red;
+    color: white !important;
+    font-size: 30px;
+}
+</style>
 
-Se sei un maker.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PSa_HIGeZXw" frameborder="0" allowfullscreen></iframe>
 
-Se sei un'azienda.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rnZmyZ4Krq0" frameborder="0" allowfullscreen></iframe>
+# Se sei un maker.
 
+<div class="rwd-video">
+  <iframe width="100%" src="https://www.youtube.com/embed/PSa_HIGeZXw" frameborder="0" allowfullscreen>
+</iframe>
+</div>
 
-<a href="http://eepurl.com/dcCL_v" class="btn btn-lg btn-info"> ISCRIVITI</a>
+# Se sei un'azienda.
 
+<div class="rwd-video">
+  <iframe width="100%" src="https://www.youtube.com/embed/rnZmyZ4Krq0" frameborder="0" allowfullscreen>
+</iframe>
+</div>
 
+<div class="bottone-reg">
+    <a href="http://eepurl.com/dcCL_v" > Iscriviti per rimanere aggiornato </a>
+</div>
